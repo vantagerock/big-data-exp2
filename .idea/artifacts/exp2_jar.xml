@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="exp2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/exp2_jar</output-path>
+    <root id="archive" name="exp2.jar">
+      <element id="module-output" name="exp2" />
+      <element id="extracted-dir" path="/opt/hadoop/share/hadoop/common/hadoop-common-2.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
