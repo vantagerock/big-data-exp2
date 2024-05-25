@@ -9,60 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ce23b2c-e5fb-4e41-8ffc-6ab0eeac5b68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/exp2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hadoop_common_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hadoop_mapreduce_client_core_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-alls-11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-antony-23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-as-12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-comedy-7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-coriolanus-24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-cymbeline-17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-first-51.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-hamlet-25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-julius-26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-king-45.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-life-54.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-life-55.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-life-56.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-lovers-62.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-loves-8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-macbeth-46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-measure-13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-merchant-5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-merry-15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-midsummer-16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-much-3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-othello-47.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-pericles-21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-rape-61.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-romeo-48.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-second-52.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-sonnets-59.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-sonnets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-taming-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-tempest-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-third-53.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-timon-49.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-titus-50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-tragedy-57.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-tragedy-58.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-troilus-22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-twelfth-20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-two-18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-venus-60.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shakespeare/shakespeare-winters-19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InvertedIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyCombine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyReduce.java" afterDir="false" />
+    <list default="true" id="9ce23b2c-e5fb-4e41-8ffc-6ab0eeac5b68" name="Changes" comment="jar created">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res_localhost.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -95,11 +48,12 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Application.InvertedIndex.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/opt/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.1.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BigDataProcessing/exp2/exp2&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/home/hadoop/IdeaProjects/exp2/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -115,10 +69,40 @@
       <option name="presentableId" value="Default" />
       <updated>1716392349910</updated>
     </task>
+    <task id="LOCAL-00001" summary="jar created">
+      <option name="closed" value="true" />
+      <created>1716649287873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716649287873</updated>
+    </task>
+    <task id="LOCAL-00002" summary="jar created">
+      <option name="closed" value="true" />
+      <created>1716649549151</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716649549151</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="jar created" />
+    <option name="LAST_COMMIT_MESSAGE" value="jar created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
